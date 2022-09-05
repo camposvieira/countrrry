@@ -1,0 +1,14 @@
+Package: countrrry
+Title: Analyse Country Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gabriel", "Vieira", , "camposvieiragabriel@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Analyse country data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    dados,
+    dplyr
