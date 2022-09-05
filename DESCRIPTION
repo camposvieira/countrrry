@@ -1,5 +1,5 @@
 Package: countrrry
-Title: Analyse Country Data
+Title: Analyse Country Data Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Gabriel", "Vieira", , "camposvieiragabriel@gmail.com", role = c("aut", "cre"),
@@ -12,3 +12,5 @@ RoxygenNote: 7.2.0
 Imports: 
     dados,
     dplyr
+URL: https://github.com/camposvieira/countrrry
+BugReports: https://github.com/camposvieira/countrrry/issues
